@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: CS PhD candidate
+role: CS PhD Candidate
 
 # Organizations/Affiliations
 organizations:
@@ -22,7 +22,7 @@ organizations:
 
 
  # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: CS PhD candidate
 interests:
 - Ubiquitous Computing
 - Human Computer Interaction
@@ -67,4 +67,4 @@ user_groups:
 - Researchers
 - Visitors
 ---
-
+Redesigning the website. New version coming soon!
