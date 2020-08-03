@@ -67,4 +67,4 @@ user_groups:
 - Researchers
 - Visitors
 ---
-Redesigning the website. New version coming soon!
+
