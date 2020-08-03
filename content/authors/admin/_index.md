@@ -17,10 +17,11 @@ organizations:
 - name: Northwestern University
   url: ""
 
-# Short bio (displayed in user profile at end of posts)
+
 
 
  <!---
+ # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 interests:
 - Artificial Intelligence
