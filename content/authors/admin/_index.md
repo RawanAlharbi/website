@@ -15,7 +15,7 @@ role: CS PhD Candidate
 # Organizations/Affiliations
 organizations:
 - name: Northwestern University
-  url: ""
+  url: "https://www.mccormick.northwestern.edu/computer-science/"
 
 
 
@@ -67,4 +67,5 @@ user_groups:
 - Researchers
 - Visitors
 ---
+testing
 
