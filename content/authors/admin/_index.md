@@ -28,11 +28,11 @@ interests:
 - Human Computer Interaction
 - Machine Learning
 
-education:
-  courses:
-  - course: PhD in Computer Science
-    institution: Northwestern University
-    year: 2021
+#education:
+#  courses:
+#  - course: PhD in Computer Science
+#    institution: Northwestern University
+#    year: 2021
    
 
 # Social/Academic Networking
@@ -67,5 +67,15 @@ user_groups:
 - Researchers
 - Visitors
 ---
-testing
+I am a computer science Ph.D. candidate at Northwestern University.
+I work in the interdisciplinary Health Aware Bits (HABits) lab directed by my advisor Prof. Nabil Alshurafa.
+
+
+
+
+
+
+
+
+
 
