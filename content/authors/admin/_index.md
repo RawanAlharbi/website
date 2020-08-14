@@ -23,10 +23,12 @@ organizations:
 
  # Short bio (displayed in user profile at end of posts)
 bio: CS PhD candidate
-interests:
-- Ubiquitous Computing
-- Human Computer Interaction
-- Machine Learning
+
+Research Interest:
+
+I am interested in designing and building accessible human-centered wearable systems that enhance wellbeing.
+
+For my Ph.D. research, I focus on improving data collection methods to enhance the privacy and accountability of behavioral sensing wearable systems.
 
 #education:
 #  courses:
