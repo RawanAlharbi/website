@@ -1,5 +1,5 @@
 ---
-title: '\"I Am Not an Engineer\": Understanding How Clinicians Design & Alter Assistive
+title: '"I Am Not an Engineer": Understanding How Clinicians Design & Alter Assistive
   Technology'
 date: '2020-01-01'
 publication_types:
