@@ -3,7 +3,7 @@ title: '"I Am Not an Engineer": Understanding How Clinicians Design & Alter Assi
   Technology'
 date: '2020-01-01'
 publication_types:
-- 1
+- 4
 publication: '*Extended Abstracts of the 2020 CHI Conference on Human Factors in Computing
   Systems*'
 abstract: ''

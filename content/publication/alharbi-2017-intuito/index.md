@@ -3,7 +3,7 @@ title: 'Intuito: Opportunistic Tangible Programming by Demonstration for Physica
   Components'
 date: '2017-01-01'
 publication_types:
-- 1
+- 4
 publication: '*Proceedings of the 2017 CHI Conference Extended Abstracts on Human
   Factors in Computing Systems*'
 abstract: ''
