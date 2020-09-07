@@ -45,8 +45,8 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/RawanAlharbi
-- icon: twitter
-  icon_pack: fab
+- icon: coursera
+  icon_pack: ai
   link: https://scholar.google.com/citations?user=U0DFD2sAAAAJ
 - icon: github
   icon_pack: fab
