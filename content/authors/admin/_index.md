@@ -45,13 +45,8 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/RawanAlharbi
-<<<<<<< HEAD
 - icon: graduation-cap
   icon_pack: fas
-=======
-- icon: coursera
-  icon_pack: ai
->>>>>>> parent of b42e891... initial
   link: https://scholar.google.com/citations?user=U0DFD2sAAAAJ
 - icon: github
   icon_pack: fab
