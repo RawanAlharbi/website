@@ -41,7 +41,7 @@ bio: CS PhD candidate
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:rawanalharbi@northwestern.edu".
+  link: mailto:rawanalharbi@northwestern.edu
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/RawanAlharbi
