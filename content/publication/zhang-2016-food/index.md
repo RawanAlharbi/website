@@ -13,5 +13,5 @@ authors:
 - Mohamad Pourhomayun
 - Bonnie Spring
 - Nabil Alshurafa
-featured: false
+featured: true
 ---

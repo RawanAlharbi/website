@@ -15,5 +15,5 @@ authors:
 - Gleb Iakovlev
 - Bonnie Spring
 - Angela Pfammatter
-featured: false
+featured: true
 ---
