@@ -41,7 +41,7 @@ bio: CS PhD candidate
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:rawanalharbi@northwestern.edu
+  link: mailto:rawan.alharbi@northwestern.edu
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/RawanAlharbi
