@@ -23,7 +23,6 @@ authors:
 - Josiah Hester
 - Nabil Alshurafa
 featured: true
-url_video: "video.mp4"
 ---
 
-{{< video src="video.mp4" controls="yes" >}}
+[comment]: <> ({{< video src="video.mp4" controls="yes" >}})
