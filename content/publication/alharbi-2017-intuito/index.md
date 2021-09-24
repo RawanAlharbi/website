@@ -12,5 +12,5 @@ authors:
 - Rawan Alharbi
 - Nabil Alshurafa
 - Michael Horn
-featured: true
+featured: false
 ---
