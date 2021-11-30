@@ -66,13 +66,7 @@ user_groups:
 - Researchers
 - Visitors
 ---
-I am a computer science Ph.D. candidate at Northwestern University.
-I work in the interdisciplinary Health Aware Bits (HABits) lab directed by my advisor Prof. Nabil Alshurafa.
-
-
-I am interested in designing and building accessible human-centered wearable systems that enhance wellbeing.
-For my Ph.D. research, I focus on improving data collection methods to enhance the privacy and accountability of behavioral sensing wearable systems.
-
+I am a computer science Ph.D. candidate at Northwestern University. The main goal of my research is to enable a sustainable future for wearable systems. I work in the intersection of human-computer interaction (HCI), systems, and machine learning (ML), exploring how we can design wearable systems that are practical, long-lived, accurate, and helpful without sacrificing important social values.
 
 
 
