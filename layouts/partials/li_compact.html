@@ -57,13 +57,20 @@
       </div>
       {{ end }}
 
-      {{ if and $show_authors_only $item.Params.authors }}
-      <div>
-        {{ partial "page_metadata_authors" $item }}
-      </div>
-      {{ else if not $show_authors_only }}
-        {{ partial "page_metadata" (dict "page" $item "is_list" 1) }}
-      {{ end }}
+      {{ partial "page_metadata_authors" $item }} <br>
+      {{ $item.Params.publication}} <br>
+      <b> ({{ $item.Params.conference}}) </b>
+
+
+<!--     {{ partial "page_metadata" (dict "page" $item "is_list" 1) }}-->
+
+<!--      {{ if and $show_authors_only $item.Params.authors }}-->
+<!--      <div>-->
+<!--        {{ partial "page_metadata_authors" $item }}-->
+<!--      </div>-->
+<!--      {{ else if not $show_authors_only }}-->
+<!--        {{ partial "page_metadata" (dict "page" $item "is_list" 1) }}-->
+<!--      {{ end }}-->
     </div>
 
     {{ if $has_attachments }}

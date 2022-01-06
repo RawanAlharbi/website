@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: CS PhD Candidate
+role: Computer Science PhD Candidate
 
 # Organizations/Affiliations
 organizations:
@@ -24,7 +24,6 @@ organizations:
  # Short bio (displayed in user profile at end of posts)
 bio: CS PhD candidate
 
-#Research Interest:
 
 
 #education:
@@ -69,12 +68,38 @@ user_groups:
 
 I am a computer science Ph.D. candidate at Northwestern University. I work in the interdisciplinary Health Aware Bits (HABits) lab directed by my advisor Prof. Nabil Alshurafa.
 
-I am interested in enabling a sustainable future for wearable systems. I work in the intersection of human-computer interaction (HCI), systems, and machine learning (ML), exploring how we can design and build wearable systems that are practical, long-lived, accurate, and helpful without sacrificing important social values.
+ I work in the intersection of **human-computer interaction**, **systems**, and **machine learning**, exploring how we can build intelligent, efficient, and responsible wearable systems that can sustain their efficacy as they integrate into everyday life.
+
+> #### I am on the job market this year!
+> [Research Statement](files/Research_Rawan.pdf) | [Teaching Statement](files/Teaching_Rawan.pdf) |  [CV](files/CV_Rawan.pdf)
 
 
+<!---
+<h1>News</h1>
+<div>
+<span class="newsdate">12|2021  </span> Paper on practical RGB-Thermal wearable got accepted to **IEEE PerCom 2022**
+<br>
+<span class="newsdate">07|2021  </span> Paper on Low-Power Omni Thermal Sensing got accepted to **ACM ISWC/UbiComp 2021**
+<br>
+<span class="newsdate">06|2021  </span> Received the Peter and Adrienne Barris  **Outstanding Teaching Award**
+<br>
+<span class="newsdate">01|2021  </span> Teaching COMP_SCI 397/497 **(mHealth)** this winter
+<br>
+<span class="newsdate">10|2020  </span> Selected for the 2020 <b> Rising Stars in EECS </b> at UC Berkley
+<br>
+<span class="newsdate">10|2020  </span> Defended my proposal
+<br>
+<span class="newsdate">10|2020  </span> Became a PhD candidate
+<br>
+<span class="newsdate">10|2020  </span> In signapoor presenting my paper 
+<br>
+<span class="newsdate">10|2020  </span> to mask 
+<br>
 
+{{< spoiler text="More news" >}}
+You found me!
+{{< /spoiler >}}
 
-
-
-
+</div>
+-->
 

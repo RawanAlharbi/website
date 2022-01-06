@@ -4,8 +4,9 @@ title: 'Willsense: adherence barriers for passive sensing systems that track eat
 date: '2017-01-01'
 publication_types:
 - 1
-publication: '*Proceedings of the 2017 CHI Conference Extended Abstracts on Human
-  Factors in Computing Systems*'
+publication: 'Proceedings of the 2017 CHI Conference Extended Abstracts on Human
+  Factors in Computing Systems'
+conference: "CHI'17"
 abstract: ''
 publishDate: '2020-08-14T04:38:25.068704Z'
 authors:

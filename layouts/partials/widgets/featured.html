@@ -29,6 +29,8 @@
   {{ $query = $query | intersect $archive_page.Pages }}
 {{ end }}
 
+{{ $count := len $query }}
+
 {{/* Sort */}}
 {{ $sort_by := "Date" }}
 {{ $query = sort $query $sort_by $items_sort }}
@@ -40,13 +42,15 @@
 {{ $i18n := "" }}
 {{ if eq $items_type "post" }}
   {{ $i18n = "more_posts" }}
-{{ else if eq $items_type "talk" }}
+{{ else if eq $items_type "event" }}
   {{ $i18n = "more_talks" }}
 {{ else if eq $items_type "publication" }}
   {{ $i18n = "more_publications" }}
 {{ else }}
   {{ $i18n = "more_pages" }}
 {{ end }}
+
+{{ $columns := $st.Params.design.columns | default "2" }}
 
 <div class="row">
   <div class="col-12 col-lg-4 section-heading">

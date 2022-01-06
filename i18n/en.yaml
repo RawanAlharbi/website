@@ -240,3 +240,7 @@
 
 - id: cookie_learn
   translation: Learn more
+
+# Published with
+- id: published_with
+  translation: Powered by {wowchemy} - Hugo Academic Theme

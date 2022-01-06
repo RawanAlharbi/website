@@ -2,9 +2,10 @@
 title: Machine learning algorithms applied to detect feeding gestures
 date: '2016-01-01'
 publication_types:
-- 2
-publication: '*The Obesity Society*'
+- 3
+publication: 'The Obesity Society'
 abstract: ''
+conference: "Obesity'16"
 publishDate: '2020-08-14T04:38:37.641814Z'
 authors:
 - Shibo Zhang

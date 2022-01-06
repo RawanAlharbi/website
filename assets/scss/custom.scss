@@ -1,0 +1,25 @@
+.navbar {
+  height: 70px;
+  background: $sta-menu-primary;
+  font-size: 16px;
+  font-weight: 900 !important;
+  position: fixed;
+  top: 0;
+  right: 0;
+  left: 0;
+  z-index: 1030;
+  padding: 0 1rem;
+}
+h1{
+  font-size: 36px;
+}
+.newsdate{
+  //color:#6136ff;
+  color:rgba(0, 0, 0, 0.54);
+  //font-weight: bold;
+  //display: inline-block;
+  //margin-right: 40px;
+}
+.btn-group{
+  margin: auto;
+}
